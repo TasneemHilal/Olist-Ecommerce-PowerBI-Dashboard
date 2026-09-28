@@ -11,3 +11,17 @@ Interactive slicers were added to enable analysis by year, payment type, and ord
 ## Dashboard Preview
 
 ![Olist E-Commerce Dashboard](Olist_Ecommerce_Dashboard_Final.png)
+
+## Tools Used
+
+- Power BI
+- Excel
+- DAX
+
+## Key Insights
+
+- Analyzed approximately 99K orders and 16M in total sales.
+- Credit card was the dominant payment method.
+- Most orders were successfully delivered.
+- Average review score was 4.09 out of 5.
+- Sales performance varied significantly across customer states.
